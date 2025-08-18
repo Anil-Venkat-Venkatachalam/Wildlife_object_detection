@@ -17,7 +17,7 @@ The goal of this project is to accurately detect and classify different wildlife
 
 Clone the repository and install the dependencies:
 
-git clone https://github.com/Anil-cloud24/wildlife-object-detection.git
+git clone https://github.com/Anil-Venkat-Venkatachalam/wildlife-object-detection.git
 cd wildlife-object-detection
 
 pip install ultralytics --upgrade

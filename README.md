@@ -1,4 +1,4 @@
-# 🦁 Wildlife Object Detection using YOLOv8
+# Bounding Box Object Detection & Classification using YOLOv8
 
 This project implements wildlife object detection using the YOLO (You Only Look Once) framework. It leverages the Ultralytics YOLOv8 model to train, validate, and test an object detection pipeline on a custom wildlife dataset in YOLO format.
 The goal of this project is to accurately detect and classify different wildlife species in images for research, conservation, and monitoring purposes.
